@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="/processcontacts" method="post">
+    <form action="" method="post">
     <input type="text" name="username" id=""> <br/>
      <input type="email" name="email" id=""> <br/>
      <input type="password" name="password" id=""> <br/>
